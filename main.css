@@ -1,0 +1,26 @@
+
+ol{
+    
+    text-align: left;
+    list-style: none;
+    font-size: 40px;
+
+}
+
+li{
+    display: inline;
+    text-size-adjust: 300px;
+border-block-end-color:black; 
+}
+h1{
+    text-align: center;
+    margin-left: 0px;
+}
+
+a:hover{
+    background-color: silver;
+    color: green;
+    padding: 16px 15px;
+}
+
+
